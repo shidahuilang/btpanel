@@ -9,7 +9,7 @@ curl -sSO https://raw.githubusercontent.com/shidahuilang/btpanel/main/install_pa
 wget -O install.sh https://raw.githubusercontent.com/shidahuilang/btpanel/main/install_6.0.sh && bash install.sh 
 
 升/降级到7.7命令： 
-curl http://f.cccyun.cc/bt/update6.sh|bash
+curl https://raw.githubusercontent.com/shidahuilang/btpanel/main/update6.sh|bash
 ```
 2、宝塔7.7原版一键开心脚本
 ```
