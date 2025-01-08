@@ -2,11 +2,13 @@
 
 宝塔纯净版9.2.0
 
-```
-if [ -f /usr/bin/curl ];then curl -sSO http://io.bt.sb/install/install_panel.sh;else wget -O install_panel.sh http://io.bt.sb/install/install_panel.sh;fi;bash install_panel.sh
-```
+
 ```
 if [ -f /usr/bin/curl ];then curl -sSO http://v920.hostcli.com/install/install_6.0.sh;else wget -O install_6.0.sh http://v920.hostcli.com/install/install_6.0.sh;fi;bash install_6.0.sh www.HostCLi.com
+```
+
+```
+if [ -f /usr/bin/curl ];then curl -sSO http://io.bt.sb/install/install_panel.sh;else wget -O install_panel.sh http://io.bt.sb/install/install_panel.sh;fi;bash install_panel.sh
 ```
 btpanel7.7开心版
 （1）安装时如果报错，请先部署环境后再重新安装（此处以Debian系统为例，其他系统参照）
