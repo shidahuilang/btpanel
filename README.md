@@ -4,7 +4,7 @@
 
 
 ```
-if [ -f /usr/bin/curl ];then curl -sSO http://v920.hostcli.com/install/install_6.0.sh;else wget -O install_6.0.sh http://v920.hostcli.com/install/install_6.0.sh;fi;bash install_6.0.sh
+if [ -f /usr/bin/curl ];then curl -sSO http://bt950.hostcli.com/install/install_panel.sh;else wget -O install_panel.sh http://bt950.hostcli.com/install/install_panel.sh;fi;bash install_panel.sh www.HostCLi.com
 ```
 
 ```
